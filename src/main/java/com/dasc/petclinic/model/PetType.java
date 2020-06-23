@@ -1,5 +1,5 @@
 package com.dasc.petclinic.model;
-
+//Prueba
 public class PetType {
 
     private String name;
