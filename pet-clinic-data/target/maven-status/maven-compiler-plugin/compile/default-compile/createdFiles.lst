@@ -1,0 +1,5 @@
+com\dasc\petclinic\model\Pet.class
+com\dasc\petclinic\model\PetType.class
+com\dasc\petclinic\model\Owner.class
+com\dasc\petclinic\model\Vet.class
+com\dasc\petclinic\model\Person.class
