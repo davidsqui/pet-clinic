@@ -1,1 +1,6 @@
 com\dasc\petclinic\PetClinicApplication.class
+com\dasc\petclinic\bootstrap\DataLoader.class
+com\dasc\petclinic\controllers\VetController.class
+com\dasc\petclinic\controllers\PetController.class
+com\dasc\petclinic\controllers\IndexController.class
+com\dasc\petclinic\controllers\OwnerController.class

@@ -1,8 +1,14 @@
-com\dasc\petclinic\model\Vet.class
+com\dasc\petclinic\services\map\AbstractMapService.class
 com\dasc\petclinic\services\VetService.class
-com\dasc\petclinic\services\PetService.class
+com\dasc\petclinic\services\map\OwnerServiceMap.class
+com\dasc\petclinic\services\CrudService.class
 com\dasc\petclinic\model\Pet.class
 com\dasc\petclinic\model\PetType.class
-com\dasc\petclinic\services\OwnerService.class
 com\dasc\petclinic\model\Owner.class
+com\dasc\petclinic\services\map\PetServiceMap.class
 com\dasc\petclinic\model\Person.class
+com\dasc\petclinic\model\BaseEntity.class
+com\dasc\petclinic\services\map\VetServiceMap.class
+com\dasc\petclinic\model\Vet.class
+com\dasc\petclinic\services\PetService.class
+com\dasc\petclinic\services\OwnerService.class
